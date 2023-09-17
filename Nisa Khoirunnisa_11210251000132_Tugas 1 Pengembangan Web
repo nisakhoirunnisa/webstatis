@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>
+    Novel Fiksi Indonesia
+</title>
+</head>
+<style>
+body {background-color: dodgerblue;}
+h1 {color: black}
+p {color: black;}
+</style>
+<body>
+<h1 style="text-align: center;">5 Rekomendasi Novel Fiksi Indonesia Bergenre Romance-Religi</h1>
+<p style="text-align: center;">Nisa K - Sabtu, 16 September 2023</p>
+<img src="Images/2.jpg" style="display:block; margin:auto;">
+<p>Novel fiksi merupakan sebuah karya tulis yang berisi suatu karangan atau imajinasi penulis, namun bisa juga dari kisah nyata penulis atau orang lain.
+<br> Menurut KBBI, novel merupakan suatu karangan prosa yang isinya berupa kisah kehidupan sehari-hari dengan menonjolkan sifat dan watak pelakunya.
+Novel memiliki beberapa genre yang ditulis secara naratif yang bentuknya cerita.
+<br>Disini saya akan memberikan 5 rekomendasi novel yang bergenre Romance-Religi. Diantaranya yaitu :</p>
+<br>
+<h2>1. Imama Al-Hafidzh - Try Lyagustina</h2>
+<img src="Images/297927679-352-k899889.jpg" style="display:block; margin:auto;">
+<p>Saya Imama, Imama Al-Hafidzh. Saya berusia dua puluh dua tahun. Saya tinggal di rumah tua dalam hutan, sebab trauma masa lalu yang saya alami.
+Malam itu, ada seorang gadis yang tersesat di hutan. Karena satu hal yang tak memungkinkan untuk saya mengantarkannya pulang, saya pun memutuskan untuk membawa gadis itu masuk ke dalam rumah saya.
+Hal yang saya takutkan pun terjadi. Setan berusaha menggoda saya untuk menyentuh gadis yang berpakaian tertutup itu. 
+Karena saya tidak tahan dengan godaan setan tersebut, saya pun akhirnya menyalakan lilin dan meletakkan jari saya di api lilin itu untuk mengingat api akhirat.
+Demi Allah, pikiran kotor saya terhadap gadis itu lebih menyakitkan daripada sekadar membakar jari-jari saya.</p>
+<br>
+<h3 style="font-size:25px;">2. Lentera Senja - Alfia Ramadhani</h3>
+<img src="Images/fdmexqptvzvubpcaasovnh.jpg" width="350" height="525" style="display:block; margin:auto;">
+<p>Novel ini menceritakan tentang seorang perwira muda bernama Arkanza Zayyan Ghaziullah El-Zein atau akrab di panggil Lettu Zayyan.
+<br>
+Hagia Sophia. Tempat yang menjadi saksi kemenangan umat Islam, sekarang terpampang jelas di hadapan saya. Sambil berucap syukur dan kekaguman atas kebesaran-Nya, saya tersenyum atas nikmat ini.
+Dan, kamu muncul dengan cara yang indah, dengan ketidaksempurnaanmu, membuat saya ingin membimbingmu dengan segala keterbatasan ilmu ini. Kamu adalah tulang rusuk yang ditakdirkan Allah untuk saya.</p>
+<h4 style="font-size:25px;">3. Bukan Aku Yang Dia Inginkan - Sari Fatul Husni</h4>
+<img src="Images/191977034-352-k511117.jpg" style="display:block; margin:auto;">
+<p>Novel ini menceritakan tentang seorang gadis yang diam-diam memendam perasaan pada seorang laki-laki tampan dan berprestasi. pria tersebut bahkan menjadi idaman setiap perempuan dikampus mereka.
+Novel ini tidak hanya menjanjikan cerita tentang cinta semata, tetapi juga akan menambah pemahaman kita tentang nilai-nilai islami dan arti sebenarnya ikatan pernikahan yang penuh dengan adanya komitmen.</p>
+<h5 style="font-size:25px;">4. Takdir Sang Arsy - Nur Hoiriah</h5>
+<img src="Images/Takdir_Sang_Arsy.jpg" width="350" height="529" style="display:block; margin:auto;">
+<p>Novel ini menceritakan tentang Azzam sang penghafal Qur'an dengan hobi memasaknya, dan Nasya yang kagum dengan sosok Azzam.
+Namun kisah diantara keduanya tidak semudah seperti membalikkan telapak tangan.</p>
+<h6 style="font-size:25px;">5. Santri Pilihan Bunda - Salsyabila Falensia</h6>
+<img src="Images/60144075.jpg" width="350" height="546" style="display:block; margin:auto;">
+<p>Novel ini mengangkat percintaan sebagai tema besarnya dengan dibalut nuansa islami. 
+<br>
+Cerita novel ini berpusat pada karakter Aliza Shaqueena Iqala, seorang gadis cantik pecandu batu es serta pemilik bulu mata lentik dan cantik.
+Hari-harinya yang biasa mendadak penuh kejutan manakala ia harus menikah dengan santri yang dipilih bundanya.</p>
+<br>
+<p>Itulah beberapa rekomendasi novel fiksi bergenre romance-religi yang bisa Anda baca. Dari daftar diatas, judul yang mana sajakah yang sudah Anda baca ?</p>
+<br>
+<p> Ditulis oleh : <br> Nisa Khoirunnisa <br> 11210251000132 <br> 5B/Ilmu Perpustakaan</p>
+<br>
+<p>Komentar dan saran anda sangat saya butuhkan, untuk meningkatkan kualitas situs saya.</p>
+<br>
+<hr><from action="komen.php" method="GET"> <pre> Nama:<input type="text" name="nama" size="25"></pre></from>
+Email :<input type="text" name="email" size="25">
+<br>Komentar :<textarea name="komentar" cols="45" rows="4"></textarea>
+<br><input type="submit" value="Kirim"/>
+<input type="reser" value="Batal"/>
+</body>
+</html>
