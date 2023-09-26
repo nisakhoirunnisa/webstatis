@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Dinas Perpustakaan dan Arsip Kabupaten Ciamis</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style> h1 {text-align: center;} body {background-color: cadetblue;} 
+    img {float:left} 
+    table, th, td {border:1px solid black; border-radius:10px;} 
+    #DENAHGEDUNG {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;}
+  .section {
+    background-color: aqua;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  } </style>
+</head>
+<body>
+<h1 style="background-color: aqua; font-style: initial; color: black; font-family: Poppin;"> Dinas Perpustakaan dan Kearsipan</h1>
+<h2>Sejarah Dinas Perpustakaan dan Arsip Kabupaten Ciamis</h2>
+<p><img src="Images/download.jpeg" width="340" height="227" style="margin-right:10px;">Kantor Perpustakaan, Umum dan Kearsipan Daerah Kabupaten Ciamis berdiri dengan sejarah penuh dinamika, 
+yang mana hal tersebut karena menyesuaikan dengan peraturan yang ada. Diawali dengan pembentukan Perpustakaan Umum Kabupaten Ciamis dengan dasar surat keputusan Bupati Ciamis Nomor: 43/541/1987 tanggal 29 Juni 1987. 
+Selanjutnya ditinjau Kembali berdasarkan keputusan Bupati Ciamis Nomor: 0611/1324/1990 tanggal 19 September 1990 tentang Pembentukan Susunan Organisasi dan Tata Kerja Perpustakaan Umum Kabupaten Ciamis. 
+Setelah lima tahun akhirnya Perpustakaan Umum dikelola oleh Bagian Organisasi Sekretariat Daerah Kabupaten Ciamis semenjak diterbitkan Surat Keputusan Menteri Dalam Negeri Nomor : 161.256 Tahun 1995 pada tanggal 17 Oktober 1995.<br>
+Pada tahun berikutnya fungsi dan susunan organisasi dan tata kerja Perpustakaan Umum diatur dengan surat Keputusan Menteri Dalam Negeri Nomor: 56 Tahun 1996 tanggal 6 Juni 1996. 
+Pada tahun 1998 Terbit Peraturan Daerah Kabupaten Ciamis Nomor 11 Tahun 1998 tentang Pembentukan Organisasi dan Tata Kerja Kantor Arsip Daerah Kabupaten Ciamis. <br>
+Penggabungan antara Kantor Arsip Daerah dan Perpustakaan Umum terjadi pada tahun 2001, yaitu dengan didasari atas Lembaran Daerah Kabupaten Ciamis Nomor 10 Tahun 2001 dan Peraturan Daerah Kabupaten Ciamis Nomor 1 Tahun 2001.
+Penggabungan kedua lembaga tersebut kemudian menjadi Kantor Arsip Daerah dan Perpustakaan Umum Kabupaten Ciamis. <br> 
+Perda nomor 14 tahun 2014 tentang organisasi perangkat daerah kabupaten Ciamis dan peraturan daerah kabupaten Ciamis nomor 15 Tahun 2014 tentang perubahan atas peraturan daerah kabupaten Ciamis Nomor 13 Tahun 2008 tentang urusan pemerintah yang menjadi kewenangan kabupaten Ciamis. <br>
+Kemudian terbit Peraturan Daerah Kabupaten Ciamis Nomor 8 Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah Kabupaten Ciamis sebagaimana telah diubah beberapa kali terakhir dengan Peraturan Daerah Kabupaten Ciamis Nomor 8 Tahun 2016 tentang Perubahan kelima Atas Peraturan Daerah Kabupaten Ciamis Nomor 17 Tahun 2008 tentang Organisasi Perangkat Daerah Kabupaten Ciamis menjadi Dinas Prpustakaan dan Kearsipan Kabupaten Ciamis.</p>
+
+<!--block & Inline-->
+<address>Website: <a href="https://dispusip.ciamiskab.go.id/artikel">Dinas Perpustakaan dan Kearsipan Kabupaten Ciamis</a> </address>
+<br>
+<hr>
+
+<!--List-->
+<h2><b><i>Waktu Layanan</i></b></h2>
+<dl>
+    <dt><b>Senin-Kamis</b></dt> <!--description term-->
+    <dd>Buka 08.30 - 16.00</dd>
+    <dd>Istirahat 11.00 - 13.00</dd>
+    <br>
+    <dt><b>Jumat</b></dt>
+    <dd> Buka 08.30 - 16.30</dd>
+    <dd> Istirahat 11.00 - 13.00</dd>
+</dl>
+<h2>Layanan Perpustakaan</h2>
+<ol> <!--order list-->
+    <li>Layanan Sirkulasi</li>
+    <li>Layanan Multimedia</li>
+    <li>Layanan Disabilitas</li>
+</ol>
+<h2>Koleksi</h2>
+<ul>
+    <li style="circle">Buku Teks</li>
+    <li>Jurnal</li>
+    <li>Majalah</li>
+</ul>
+<br>
+<hr>
+<!--Table-->
+<h2>E-Resource</h2>
+<table>
+    <tr>
+        <th>E-Resource</th>
+        <th>Penjelasan</th>
+    </tr>
+    <tr>
+        <td style="text-align: center;" >JStor</td>
+        <td>JSTOR (singkatan dari Journal Storage) adalah sebuah perpustakaan digital yang didirikan tahun 1995. 
+            Perpustakaan ini sebelumnya berisi terbitan jurnal akademik yang terdigitalisasi. 
+            Sekarang, koleksinya juga mencakup buku-buku dan sumber primer, serta terbitan jurnal terbaru.</td>
+    </tr>
+</table>
+
+<!--ID-->
+<h2 id="#DENAHGEDUNG" style="text-align: center;"> DENAH GEDUNG </h2>
+
+<!--CLASS-->
+<div class="section"></div>
+</body>
+</html>
